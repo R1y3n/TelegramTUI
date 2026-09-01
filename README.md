@@ -1,2 +1,2 @@
 # TelegramTUI
-TUI version of Telegram telethon client
+TUI version of Telegram client
